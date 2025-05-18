@@ -1,5 +1,9 @@
-flask
-flask-cors
-pandas
-openpyxl
-pydrive2
+Flask==2.3.3
+flask-cors==4.0.0
+pandas==2.2.2
+openpyxl==3.1.2
+pydrive2==1.19.0
+google-api-python-client==2.126.0
+google-auth==2.29.0
+google-auth-oauthlib==1.2.0
+gunicorn==21.2.0
