@@ -6,3 +6,5 @@ pyOpenSSL==23.2.0
 google-api-python-client
 requests
 pandas
+openpyxl
+gunicorn
